@@ -1,5 +1,5 @@
 # Site settings
-email:
+email: "mailto:dummymail@gmail.com"
 baseurl:
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -16,7 +16,7 @@ default_img:
 name: Andi Hakim
 profile_img:
 profile: less doing same thing
-social: 
+social:
   github: "https://github.com/andihaki"
 
 # Build settings
