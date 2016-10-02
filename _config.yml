@@ -1,23 +1,23 @@
 # Site settings
-email: 
+email:
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Busylessman
+description: less doing same thing
+url: "http://busylessman.com"
+twitter_username: andihaki
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name:
+profile_img:
+profile:
 social:
-  github: 
+  github:
 
 # Build settings
 include: ["_categories"]
