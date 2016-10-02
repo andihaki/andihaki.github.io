@@ -14,7 +14,7 @@ default_img: "https://c2.staticflickr.com/6/5622/22160892602_e5474a698d.jpg"
 
 # Profile settings
 name: Andi Hakim
-profile_img:
+profile_img: "https://c2.staticflickr.com/6/5622/22160892602_e5474a698d.jpg"
 profile: less doing same thing
 social:
   github: "https://github.com/andihaki"
