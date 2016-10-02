@@ -13,11 +13,11 @@ twitter_username: andihaki
 default_img:
 
 # Profile settings
-name:
+name: Andi Hakim
 profile_img:
-profile:
-social:
-  github: andihaki
+profile: https://web.facebook.com/fuosi
+social: https://www.linkedin.com/in/andihakimarif
+  github: https://github.com/andihaki
 
 # Build settings
 include: ["_categories"]
