@@ -17,7 +17,7 @@ name: Andi Hakim
 profile_img:
 profile: less doing same thing
 social: https://www.linkedin.com/in/andihakimarif
-  github: https://github.com/andihaki
+  github: andihaki
 
 # Build settings
 include: ["_categories"]
