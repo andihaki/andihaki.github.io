@@ -1,5 +1,5 @@
 # Site settings
-email: "andi.hakim.arif@gmail.com"
+email: 
 baseurl: "http://busylessman.com"
 paginate: 5
 paginate_path: "/blog/page-:num"
