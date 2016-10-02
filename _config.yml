@@ -16,8 +16,8 @@ default_img:
 name: Andi Hakim
 profile_img:
 profile: less doing same thing
-social: https://www.linkedin.com/in/andihakimarif
-  github: andihaki
+social: "https://www.linkedin.com/in/andihakimarif"
+  github: "https://github.com/andihaki"
 
 # Build settings
 include: ["_categories"]
