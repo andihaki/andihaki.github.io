@@ -5,8 +5,8 @@ date: 2016-10-02
 categories:
   - News
 description:
-image: https://github.com/andihaki/andihaki.github.io/blob/master/_images/first.png
-image-sm: https://github.com/andihaki/andihaki.github.io/blob/master/_images/first.png
+image: https://github.com/andihaki/andihaki.github.io/blob/master/_images/first.png?raw=true
+image-sm: https://github.com/andihaki/andihaki.github.io/blob/master/_images/first.png?raw=true
 ---
 Holla Sob
 
