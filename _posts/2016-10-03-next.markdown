@@ -8,13 +8,11 @@ categories:
 Setelah sedikit modifikasi ternyata masih banyak yang kurang.
 
 untuk selanjutnya, admin akan fokus untuk :
-
 1. redesign website ini.
 2. belajar menjadi fullstack javascript developer :
-
   - BackEnd : Node.JS
   - Database : ArangoDB
   - FrontEnd : Angular.JS
 
-stay tuned @ https://andihaki.github.io atau http://busylessman.com.
+stay tuned @ [andihaki.github.io](https://andihaki.github.io){:target="_blank"} atau [busylessman.com](http://busylessman.com){:target="_blank"}.
 Ciao.
