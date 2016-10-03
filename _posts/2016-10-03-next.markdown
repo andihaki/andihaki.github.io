@@ -21,3 +21,12 @@ untuk selanjutnya, admin akan fokus untuk :
 
 stay tuned @ https://andihaki.github.io atau http://busylessman.com (nantinya :) ).
 Ciao.
+
+- test
+- 2
+
+* test
+
++ test
+
+~ test
