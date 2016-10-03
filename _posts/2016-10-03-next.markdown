@@ -10,4 +10,12 @@ image-sm: https://github.com/andihaki/andihaki.github.io/blob/master/images/blog
 ---
 Setelah sedikit modifikasi ternyata masih banyak yang kurang.
 
-untuk selanjutnya, admin akan fokus untuk redesign website ini.
+untuk selanjutnya, admin akan fokus untuk :
+- redesign website ini.
+- belajar menjadi fullstack javascript developer
+  + BackEnd : Node.JS
+  + Database : ArangoDB
+  + FrontEnd : Angular.JS
+
+tetap kunjungi https://andihaki.github.io atau http://busylessman.com (nantinya :) ).
+Ciao.
