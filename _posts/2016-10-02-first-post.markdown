@@ -14,9 +14,9 @@ FYI, busylessman.com sekarang sudah online menggunakan github page (https://page
 
 Spec busylessman old :
 
-+ BackEnd : Codeigniter
-+ FrotEnd : jQuery & Bootstrap 3
-+ Database : PostgreSQL
+: BackEnd : Codeigniter
+: {:.cls} FrotEnd : jQuery & Bootstrap 3
+{:#term1} Database : PostgreSQL
 
 >
 Spec busylessman:
