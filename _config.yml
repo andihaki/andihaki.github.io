@@ -22,7 +22,7 @@ social:
 # Build settings
 include: ["_categories"]
 exclude: ["Gemfile", "Gemfile.lock"]
-markdown: kramdown
+markdown: rdiscount #kramdown
 permalink: /:title/ #/:year/:month/:day/:title/
 
 # Sass
@@ -31,6 +31,3 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
-
-kramdown:
-  default_lang: html
