@@ -14,12 +14,12 @@ FYI, busylessman.com sekarang sudah online menggunakan github page (https://page
 
 Spec busylessman old :
 
-* BackEnd : Codeigniter
-* FrotEnd : jQuery & Bootstrap 3
-* Database : PostgreSQL
++ BackEnd : Codeigniter
++ FrotEnd : jQuery & Bootstrap 3
++ Database : PostgreSQL
 
 
 Spec busylessman:
 
-+ BackEnd : GitHub
-+ FrontEnd : theme https://github.com/thomasvaeth/trophy/
+- BackEnd : GitHub
+- FrontEnd : theme https://github.com/thomasvaeth/trophy/
