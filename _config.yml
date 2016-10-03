@@ -1,6 +1,6 @@
 # Site settings
 email: "mailto:dummymail@gmail.com"
-baseurl:
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: "UA-22964301-1"
@@ -8,7 +8,7 @@ google_analytics: "UA-22964301-1"
 # SEO settings
 title: Busylessman
 description: less doing same thing
-url: "http://busylessman.com"
+url: ""
 twitter_username: andihaki
 default_img: "https://c2.staticflickr.com/6/5622/22160892602_e5474a698d.jpg"
 
@@ -27,7 +27,7 @@ permalink: /:title/ #/:year/:month/:day/:title/
 
 # Sass
 sass:
-  style: compressed
+  style: #compressed
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
