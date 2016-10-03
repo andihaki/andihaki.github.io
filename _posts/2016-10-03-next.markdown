@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Next"
+date: 2016-10-03
+categories:
+  - News
+description:
+image: https://github.com/andihaki/andihaki.github.io/blob/master/images/blog/next.jpg?raw=true
+image-sm: https://github.com/andihaki/andihaki.github.io/blob/master/images/blog/next.jpg?raw=true
+---
+Setelah sedikit modifikasi ternyata masih banyak yang kurang.
+
+untuk selanjutnya, admin akan fokus untuk redesign website ini.
