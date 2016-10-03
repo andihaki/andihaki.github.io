@@ -31,3 +31,6 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+
+kramdown:
+  auto_ids: true
