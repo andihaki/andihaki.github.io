@@ -1,33 +1,33 @@
 # Site settings
-email: "mailto:dummymail@gmail.com"
+email:
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: "UA-22964301-1"
+google_analytics:
 
 # SEO settings
-title: Busylessman
-description: less doing same thing
+title: Trophy
+description:
 url: ""
-twitter_username: andihaki
-default_img: "https://c2.staticflickr.com/6/5622/22160892602_e5474a698d.jpg"
+twitter_username:
+default_img:
 
 # Profile settings
-name: Andi Hakim
-profile_img: "https://c2.staticflickr.com/6/5622/22160892602_e5474a698d.jpg"
-profile: less doing same thing
+name:
+profile_img:
+profile:
 social:
-  github: "https://github.com/andihaki"
+  github:
 
 # Build settings
 include: ["_categories"]
-exclude: ["Gemfile", "Gemfile.lock"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
-permalink: /:title/ #/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 # Sass
 sass:
-  style: #compressed
+  style: compressed
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
