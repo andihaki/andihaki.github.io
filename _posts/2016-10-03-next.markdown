@@ -13,7 +13,7 @@ Setelah sedikit modifikasi ternyata masih banyak yang kurang.
 untuk selanjutnya, admin akan fokus untuk :
 1. redesign website ini.
 2. belajar menjadi fullstack javascript developer :
-<br/>
+&lt;br/&gt;
   - BackEnd : Node.JS
   - Database : ArangoDB
   - FrontEnd : Angular.JS
