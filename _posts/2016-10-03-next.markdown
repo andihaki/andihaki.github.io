@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Next"
+date: 2016-10-03 21:16:00 +0700
+categories:
+  - Personal
+---
+Setelah sedikit modifikasi ternyata masih banyak yang kurang.
+
+untuk selanjutnya, admin akan fokus untuk :
+
+1. redesign website ini.
+2. belajar menjadi fullstack javascript developer :
+
+  - BackEnd : Node.JS
+  - Database : ArangoDB
+  - FrontEnd : Angular.JS
+
+stay tuned @ https://andihaki.github.io atau http://busylessman.com.
+Ciao.
