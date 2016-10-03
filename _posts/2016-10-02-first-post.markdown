@@ -12,11 +12,12 @@ Holla Sob
 
 FYI, busylessman.com sekarang sudah online menggunakan github page (https://pages.github.com). Sebelumnya sempat hosting di http://dewaweb.com, tapi karena ada fitur yang tidak bisa dihidupkan jadi diputuskan untuk pindah hosting. kenapa pilih github, karena tentu it's totally more secure dan yang lebih penting gratis sob hahaha.
 
+>
 Spec busylessman old :
 
-: BackEnd : Codeigniter
-: {:.cls} FrotEnd : jQuery & Bootstrap 3
-{:#term1} Database : PostgreSQL
+__BackEnd : Codeigniter__
+*FrotEnd : jQuery & Bootstrap 3*
+**{:#term1} Database : PostgreSQL**
 
 >
 Spec busylessman:
