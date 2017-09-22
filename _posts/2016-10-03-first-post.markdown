@@ -6,15 +6,15 @@ categories: personal
 ---
 Holla Sob
 
-FYI, `busylessman.com` sekarang sudah online menggunakan github page (https://pages.github.com). Sebelumnya sempat hosting di http://dewaweb.com, tapi karena ada fitur yang tidak bisa dihidupkan jadi diputuskan untuk pindah hosting. kenapa pilih github, karena tentu it's totally more secure dan yang lebih penting gratis sob hahaha.
+FYI,  sekarang sudah online menggunakan github page (https://pages.github.com). Sebelumnya sempat hosting di http://dewaweb.com, tapi karena ada fitur yang tidak bisa dihidupkan jadi diputuskan untuk pindah hosting. kenapa pilih github, karena tentu it's totally more secure dan yang lebih penting gratis sob hahaha.
 
-Spec busylessman old :
+Spec  old :
 
 - BackEnd : Codeigniter
 - FrotEnd : jQuery & Bootstrap 3
 - Database : PostgreSQL
 
-Spec busylessman:
+Spec :
 
 - BackEnd : GitHub
 - FrontEnd : theme https://github.com/thomasvaeth/trophy/
